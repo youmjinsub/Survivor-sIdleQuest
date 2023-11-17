@@ -30,4 +30,8 @@
 강화 버튼 클릭 시 캐릭터의 스탯 상승 (버그 수정중)
 
 --------------------
-참고자료
+참고자료 및 에셋사용
+
+https://www.youtube.com/playlist?list=PLO-mt5Iu5TeZF8xMHqtT_DhAPKmjF6i3x 13장까지 따라 제작
+
+레트로의 유니티 게임 프로그래밍 에센스 에셋 일부 사용
