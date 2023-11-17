@@ -13,3 +13,21 @@
 
 왼쪽 상단에 킬수, 오른쪽 상단에 현재 자신의 레벨 상태 표기
 
+![5](https://github.com/youmjinsub/Survivor-sIdleQuest/assets/112995645/b0e43db9-b905-49aa-b91e-e59f9ad18367)
+
+캐릭터 레벨업 시 캐릭터의 강화 또는 회복아이템 획득 기능
+
+![4](https://github.com/youmjinsub/Survivor-sIdleQuest/assets/112995645/ba155055-6b8d-45b6-97d1-1f4dfec21284)
+
+![6](https://github.com/youmjinsub/Survivor-sIdleQuest/assets/112995645/75fc44b7-fde0-4371-babd-1edb8ee61799)
+
+캐릭터의 사망 또는 승리 시 첫 화면으로 돌아가기 기능
+
+![7](https://github.com/youmjinsub/Survivor-sIdleQuest/assets/112995645/e4082d92-ac6f-4a4b-bd39-13381b024d86)
+
+방치씬 입장 후 가만히 있어도 골드 생성 및 
+
+강화 버튼 클릭 시 캐릭터의 스탯 상승 (버그 수정중)
+
+--------------------
+참고자료
